@@ -37,10 +37,10 @@ body{
 #social-icons .icon{
     width:40px;
     height:40px;
-    margin-right:10px;
-    float:left;
+    margin-right:auto;
+    margin-left:auto;
 }
 
-#social-icons .icon:last-child{
+/*#social-icons .icon:last-child{
     margin:0;
-}
+}*/
